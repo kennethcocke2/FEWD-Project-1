@@ -151,13 +151,13 @@ a.social {
   transition: all .5s;
 }
 a.twitter {
-  background-image: url(https://twitter.com/KennethCocke2);
+  background-image: url(twitter.svg);
 }
 a.linkedin {
-  background-image: url(https://www.linkedin.com/in/kenneth-cocke-662759b3/);
+  background-image: url(linkedin.svg);
 }
 a.github {
-  background-image: url(https://github.com/kennethcocke2);
+  background-image: url(github.svg);
 }
 a.social:hover {
   opacity: 1;
